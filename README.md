@@ -2,8 +2,6 @@
 
 **Assessment Report by Ridam Rahman**
 
-**1804335@uad.ac.uk**
-
 **Introduction**
 
 This section contains brief information about the application and how to interact with it through user controls. It is fundamentally a 3D environment, built using the DirectX11 Software Development Kit. Once launched, the application will display a room, featuring a spinning globe in the middle of the room, a teapot orbiting around the globe, and a greenish skull a bit further away near the end of the room. Getting closer to the skull will change the lighting effect on the skull, as well as the volume of the sound playing in the background. There&#39;s also a rudimentary HUD, featuring four triangles constantly moving back and forth on the display.
